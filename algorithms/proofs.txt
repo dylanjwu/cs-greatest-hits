@@ -1,0 +1,9 @@
+# MODERATE
+
+Proof by induction (apply to recursive problems)
+
+Proof by contradiction
+
+Greedy proofs (for greedy algorithms)
+
+NP-completeness proofs (and famous algorithms)
