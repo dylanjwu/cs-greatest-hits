@@ -1,1 +1,0 @@
-# MODERATE/HARD

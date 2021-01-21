@@ -1,4 +1,3 @@
-# EASY/MODERATE
 import random
 # help from: https://www.geeksforgeeks.org/merge-sort/
 

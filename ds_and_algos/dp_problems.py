@@ -1,4 +1,3 @@
-# HARD
 
 # memoization and bottom-up (aka static-scheduling) approaches
 

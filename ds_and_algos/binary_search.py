@@ -1,4 +1,3 @@
-# EASY
 
 # vanilla binary search
 # make sure you are returning each call, not just calling it

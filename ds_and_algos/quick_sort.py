@@ -1,4 +1,3 @@
-# HARD
 # referenceed: https://www.techiedelight.com/quicksort/
 
 def swap(a, i, j):

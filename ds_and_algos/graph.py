@@ -1,4 +1,3 @@
-# MODERATE
 
 # adjaceny matrix and adjacency list representations
 
@@ -37,8 +36,6 @@ class Graph:
     def contains_cycle(self):
         pass
     def is_undirected(self):
-        pass
-    def topological_sort(self):
         pass
     def strongly_connected_components(self):
         pass

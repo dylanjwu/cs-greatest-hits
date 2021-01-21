@@ -1,4 +1,3 @@
-# EASY
 
 from binary_tree import TreeNode, Tree
 

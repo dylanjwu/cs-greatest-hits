@@ -1,4 +1,3 @@
-# EASY
 from copy import copy
 
 class Node:
